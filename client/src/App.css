@@ -1,0 +1,46 @@
+.user-card{
+  color: #132880;
+}
+
+.user-card:hover{
+  background-color: #D9E4EC;
+  cursor: pointer;
+}
+
+.welcome {
+  position: relative;
+  background:  url(../assets/bg-image.jpeg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.welcome-text {
+  color: #2B7C85;
+}
+
+.button-icon,
+.custom-button-icon{
+  color: #2B7C85;
+  text-align: right;
+  font-weight: bold;
+}
+
+.button-icon:hover {
+  cursor: pointer;
+  background-color: lightgray;
+}
+
+.chat-screen {
+  position: relative;
+  background:  url(../assets/bg-image-chat7.jpeg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  /*background-size: cover;*/
+  height: 81vh;
+  padding: 10px;
+  border-radius: 10px;
+  overflow-y: -moz-scrollbars-none;
+}
