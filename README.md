@@ -1,7 +1,6 @@
 # chatify
 Chat Application - With Apollo Server, Apollo Client and Prisma
 
-Chat Application - With Apollo Server, Apollo Client and Prisma
 
 Welcome to the ChatiFy, a real-time messaging platform built using Node.js, React with Hooks, MaterialUI, GraphQL, Apollo Server, Apollo Client, MySQL database, and Prisma. This application enables users to engage in text-based conversations in a seamless and interactive manner.
 
